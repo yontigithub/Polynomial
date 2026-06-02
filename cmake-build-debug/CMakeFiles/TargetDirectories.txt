@@ -1,3 +1,3 @@
-/Users/yorap/Documents/CS/Code/C++/Semi-Projects/Sparse_Poly/cmake-build-debug/CMakeFiles/Sparse_Poly.dir
-/Users/yorap/Documents/CS/Code/C++/Semi-Projects/Sparse_Poly/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/yorap/Documents/CS/Code/C++/Semi-Projects/Sparse_Poly/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/yorap/Documents/CS/Code/C++/Semi-Projects/Polynomial/cmake-build-debug/CMakeFiles/Sparse_Poly.dir
+/Users/yorap/Documents/CS/Code/C++/Semi-Projects/Polynomial/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/yorap/Documents/CS/Code/C++/Semi-Projects/Polynomial/cmake-build-debug/CMakeFiles/rebuild_cache.dir

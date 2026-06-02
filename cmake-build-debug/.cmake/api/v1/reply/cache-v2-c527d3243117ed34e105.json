@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/yorap/Documents/CS/Code/C++/Semi-Projects/Sparse_Poly/cmake-build-debug"
+			"value" : "/Users/yorap/Documents/CS/Code/C++/Semi-Projects/Polynomial/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -151,10 +151,10 @@
 				},
 				{
 					"name" : "HELPSTRING",
-					"value" : "CXX compiler"
+					"value" : "No help, variable specified on the command line."
 				}
 			],
-			"type" : "STRING",
+			"type" : "UNINITIALIZED",
 			"value" : "/opt/homebrew/opt/llvm/bin/clang++"
 		},
 		{
@@ -295,10 +295,10 @@
 				},
 				{
 					"name" : "HELPSTRING",
-					"value" : "C compiler"
+					"value" : "No help, variable specified on the command line."
 				}
 			],
-			"type" : "STRING",
+			"type" : "UNINITIALIZED",
 			"value" : "/opt/homebrew/opt/llvm/bin/clang"
 		},
 		{
@@ -575,7 +575,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/yorap/Documents/CS/Code/C++/Semi-Projects/Sparse_Poly/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "/Users/yorap/Documents/CS/Code/C++/Semi-Projects/Polynomial/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -635,7 +635,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/yorap/Documents/CS/Code/C++/Semi-Projects/Sparse_Poly"
+			"value" : "/Users/yorap/Documents/CS/Code/C++/Semi-Projects/Polynomial"
 		},
 		{
 			"name" : "CMAKE_INSTALL_NAME_TOOL",
@@ -1207,7 +1207,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/yorap/Documents/CS/Code/C++/Semi-Projects/Sparse_Poly/cmake-build-debug"
+			"value" : "/Users/yorap/Documents/CS/Code/C++/Semi-Projects/Polynomial/cmake-build-debug"
 		},
 		{
 			"name" : "Sparse_Poly_IS_TOP_LEVEL",
@@ -1231,7 +1231,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/yorap/Documents/CS/Code/C++/Semi-Projects/Sparse_Poly"
+			"value" : "/Users/yorap/Documents/CS/Code/C++/Semi-Projects/Polynomial"
 		}
 	],
 	"kind" : "cache",
