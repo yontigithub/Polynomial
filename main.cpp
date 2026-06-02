@@ -3,11 +3,12 @@
 #include <algorithm>
 #include <cmath>
 #include "SparsePoly.h"
+#include "TypePoly.h"
 using namespace std;
 
 int main() {
-    SparsePoly p({{4,21.11},{10,50.3}});
-    SparsePoly q({1,2,3.5});
+    TypePoly<ld> p({{4,21.11},{10,50.3}});
+    TypePoly<ld> q({1,2,3.5});
     cout << "p(x) = " << p << '\n';
     cout << "q(x) = " << q << '\n';
     auto div = p/q;
