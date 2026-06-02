@@ -5,4 +5,5 @@ set(CMAKE_CXX_STANDARD 17)
 
 add_executable(Sparse_Poly main.cpp
 Utils.h
-SparsePoly.h)
+SparsePoly.h
+DensePoly.h)

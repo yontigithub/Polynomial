@@ -90,7 +90,8 @@
 			"sourceIndexes" : 
 			[
 				1,
-				2
+				2,
+				3
 			]
 		}
 	],
@@ -110,6 +111,11 @@
 		{
 			"backtrace" : 1,
 			"path" : "SparsePoly.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "DensePoly.h",
 			"sourceGroupIndex" : 1
 		}
 	],
